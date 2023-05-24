@@ -1,0 +1,56 @@
+[
+    {
+        "id": "3b7f9a6e2d1c8f5b",
+        "name": "Safiq Shirazi",
+        "img": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": 10,
+        "recipes": 50,
+        "likes": 2500,
+        "description": "Safiyyah Shirazi is a renowned chef from Afghanistan with 10 years of culinary experience. She specializes in Afghan cuisine, bringing authentic flavors and traditional recipes to the table. His extensive repertoire includes over 50 delectable dishes, showcasing the rich culinary heritage of Afghanistan. With a keen eye for detail and a passion for cooking, Safiyyah has garnered a dedicated following of food enthusiasts. His culinary creations have amassed a staggering 2500 likes, earning his a well-deserved reputation as one of the top Afghan chefs in the industry."
+    },
+    {
+        "id": "e4a5d6c7f8b9a23",
+        "name": "Rahim Ahmadzai",
+        "img": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": 8,
+        "recipes": 40,
+        "likes": 1800,
+        "description": "Rahim Ahmadzai is an Afghan chef with 8 years of experience in the culinary world. He has perfected the art of blending traditional Afghan flavors with modern techniques, creating a unique fusion that delights the taste buds. Rahim is known for his diverse repertoire of 40 recipes, each showcasing his creativity and passion for culinary innovation. With 1800 likes and counting, his dishes have gained widespread recognition for their exquisite taste and presentation. Rahim's dedication to his craft shines through in every dish he creates, making him a true culinary maestro."
+    },
+    {
+        "id": "9b8c7d6a5f4e3c2",
+        "name": "Zahran Noor",
+        "img": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": 12,
+        "recipes": 60,
+        "likes": 3200,
+        "description": "Zahra Noori is an Afghan culinary genius with 12 years of experience under his belt. His expertise lies in crafting traditional Afghan dishes that evoke a sense of nostalgia and cultural pride. With a collection of 60 meticulously crafted recipes, Zahra takes his diners on a flavorful journey through Afghanistan's culinary heritage. His dishes have garnered immense praise, accumulating an impressive 3200 likes. Zahra's culinary prowess combined with his warm personality has made his a beloved figure in the Afghan food scene, earning his a special place in the hearts of food enthusiasts."
+    },
+    {
+        "id": "1d2e3f4c5b6a789",
+        "name": "Hassan Faizi",
+        "img": "https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "experience": 6,
+        "recipes": 30,
+        "likes": 1200,
+        "description": "Hassan Faizi, a talented Afghan chef, brings a fresh perspective to the culinary world with his innovative creations. With 6 years of experience, he has honed his skills to deliver a delightful gastronomic experience. Hassan's repertoire consists of 30 carefully curated recipes that showcase his dedication to quality and flavor. His dishes have garnered significant praise, accumulating 1200 likes from food lovers worldwide. Hassan's culinary journey reflects his passion for pushing the boundaries of traditional Afghan cuisine, making him a rising star in the culinary landscape."
+    },
+    {
+        "id": "a2b3c4d5e6f7981",
+        "name": "Hadia Khattak",
+        "img": "https://images.pexels.com/photos/8629121/pexels-photo-8629121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": 9,
+        "recipes": 45,
+        "likes": 2100,
+        "description": "Nadia Khattak is an exceptional culinary artist, renowned for his innovative approach to cooking and captivating flavors. With a passion for gastronomy, she has honed his skills over the years, creating extraordinary culinary experiences that leave a lasting impression on all who indulge. Nadia's commitment to using fresh, locally sourced ingredients adds a delightful touch of authenticity to his delectable creations. His culinary expertise extends beyond borders, blending diverse flavors from around the world into harmonious symphonies of taste. With his creative flair and unwavering dedication, Nadia Khattak continues to redefine the culinary landscape, delighting food enthusiasts with every dish she presents."
+    },
+    {
+        "id": "6f5e4d3c2b1a789",
+        "name": "Karim Azimi",
+        "img": "https://images.pexels.com/photos/35666/cooking-baby-only-kitchen.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": 15,
+        "recipes": 80,
+        "likes": 4500,
+        "description": "Karim Azimi is a seasoned Afghan chef with a remarkable culinary journey spanning over 15 years. He is widely regarded as a master of Afghan cuisine, having honed his skills in renowned kitchens across the country. With an impressive repertoire of 80 unique recipes, Karim's culinary creations showcase the diverse flavors and regional specialties of Afghanistan. His dishes have garnered immense praise, accumulating a staggering 4500 likes. Karim's passion for culinary excellence and his meticulous attention to detail make each of his creations a true work of art, elevating Afghan cuisine to new heights."
+    }
+]

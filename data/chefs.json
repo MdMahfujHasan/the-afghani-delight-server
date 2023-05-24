@@ -1,0 +1,50 @@
+[
+    {
+        "id": "3b7f9a6e2d1c8f5b",
+        "name": "Safiyyah Shirazi",
+        "img": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": 10,
+        "recipes": 50,
+        "likes": 2500
+    },
+    {
+        "id": "e4a5d6c7f8b9a23",
+        "name": "Rahim Ahmadzai",
+        "img": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": 8,
+        "recipes": 40,
+        "likes": 1800
+    },
+    {
+        "id": "9b8c7d6a5f4e3c2",
+        "name": "Zahra Noori",
+        "img": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": 12,
+        "recipes": 60,
+        "likes": 3200
+    },
+    {
+        "id": "1d2e3f4c5b6a789",
+        "name": "Hassan Faizi",
+        "img": "https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "experience": 6,
+        "recipes": 30,
+        "likes": 1200
+    },
+    {
+        "id": "a2b3c4d5e6f7981",
+        "name": "Nadia Khattak",
+        "img": "https://images.pexels.com/photos/8629121/pexels-photo-8629121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": 9,
+        "recipes": 45,
+        "likes": 2100
+    },
+    {
+        "id": "6f5e4d3c2b1a789",
+        "name": "Karim Azimi",
+        "img": "https://images.pexels.com/photos/35666/cooking-baby-only-kitchen.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": 15,
+        "recipes": 80,
+        "likes": 4500
+    }
+]
