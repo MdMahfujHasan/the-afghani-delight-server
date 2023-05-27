@@ -1,7 +1,7 @@
 [
     {
         "id": "3b7f9a6e2d1c8f5b",
-        "name": "Safiyyah Shirazi",
+        "name": "Safiq Shirazi",
         "img": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "experience": 10,
         "recipes": 50,
@@ -17,7 +17,7 @@
     },
     {
         "id": "9b8c7d6a5f4e3c2",
-        "name": "Zahra Noori",
+        "name": "Zahran Noor",
         "img": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "experience": 12,
         "recipes": 60,
@@ -33,7 +33,7 @@
     },
     {
         "id": "a2b3c4d5e6f7981",
-        "name": "Nadia Khattak",
+        "name": "Hadia Khattak",
         "img": "https://images.pexels.com/photos/8629121/pexels-photo-8629121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "experience": 9,
         "recipes": 45,
