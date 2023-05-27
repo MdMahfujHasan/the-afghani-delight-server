@@ -9,6 +9,7 @@
         "description": "Safiyyah Shirazi is a renowned chef from Afghanistan with 10 years of culinary experience. She specializes in Afghan cuisine, bringing authentic flavors and traditional recipes to the table. His extensive repertoire includes over 50 delectable dishes, showcasing the rich culinary heritage of Afghanistan. With a keen eye for detail and a passion for cooking, Safiyyah has garnered a dedicated following of food enthusiasts. His culinary creations have amassed a staggering 2500 likes, earning his a well-deserved reputation as one of the top Afghan chefs in the industry.",
         "recipe": [
             {
+                "id": "e9fK3A2h4G6j",
                 "name": "Kabuli Pulao: Fragrant Basmati Rice with Tender Meat, Caramelized Carrots, Raisins, and Almonds",
                 "img": "https://afghancooks.com/wp-content/uploads/2021/09/IMG_0858_jpg.jpg",
                 "description": "Kabuli Pulao is a beloved Afghan dish that combines fragrant basmati rice with tender meat, creating a flavorful and satisfying meal. The dish features a delightful mix of ingredients, including succulent meat (commonly lamb or chicken), caramelized carrots that add a touch of sweetness, plump raisins that infuse bursts of fruity flavor, and crunchy almonds that provide a delightful texture. The rice is cooked to perfection, absorbing the aromatic spices and juices from the meat, creating a harmonious blend of tastes. This classic Afghan recipe is a feast for the senses, with its enticing aroma, vibrant colors, and a balance of sweet and savory flavors that make it a true delight to savor.",
@@ -33,6 +34,7 @@
                 "rating": 4.8
             },
             {
+                "id": "p7D5bN1m8S2",
                 "name": "Mantu: Savory Afghan Dumplings filled with Seasoned Ground Meat, Served with Tomato Sauce, Yogurt, and Dried Mint",
                 "img": "https://media.healthyfood.com/wp-content/uploads/2016/11/Afghani-lamb-mantu.jpg",
                 "description": "Mantu is a savory Afghan delicacy consisting of dumplings filled with seasoned ground meat, bursting with rich flavors. The tender dumpling wrappers encase a delectable mixture of spiced ground meat, usually beef or lamb, creating a satisfying and hearty bite. These dumplings are traditionally served with a vibrant tomato sauce that adds tanginess and complements the savory filling. A dollop of creamy yogurt is added on top, offering a cool and refreshing contrast to the warm dumplings. To finish, a sprinkling of dried mint adds a hint of aromatic freshness, elevating the overall taste experience.",
@@ -67,6 +69,7 @@
                 "rating": 4.4
             },
             {
+                "id": "t6Y7vC9x1Z4",
                 "name": "Ashak: Flavorful Dumplings filled with Leeks, Scallions, and Herbs, topped with Spiced Tomato Sauce and Yogurt",
                 "img": "https://afghancooks.com/wp-content/uploads/2022/02/Photo-Jan-30-4-42-14-PM-scaled.jpg",
                 "description": "Ashak is a delectable Afghan dish consisting of flavorful dumplings filled with a mixture of leeks, scallions, and herbs. The dumplings are delicate, tender, and bursting with freshness. They are typically served with a spiced tomato sauce that adds a tangy and savory element to the dish. The addition of yogurt further enhances the flavors and provides a creamy balance. Ashak is often garnished with dried mint, adding a refreshing herbal note to the overall experience.",
@@ -111,6 +114,7 @@
         "description": "Rahim Ahmadzai is an Afghan chef with 8 years of experience in the culinary world. He has perfected the art of blending traditional Afghan flavors with modern techniques, creating a unique fusion that delights the taste buds. Rahim is known for his diverse repertoire of 40 recipes, each showcasing his creativity and passion for culinary innovation. With 1800 likes and counting, his dishes have gained widespread recognition for their exquisite taste and presentation. Rahim's dedication to his craft shines through in every dish he creates, making him a true culinary maestro.",
         "recipe": [
             {
+                "id": "q2R3t9V4b1E",
                 "name": "Bolani: Crispy Stuffed Flatbread with Mashed Potatoes, Onions, and Spices, served with Yogurt or Chutney",
                 "img": "https://cdn.pickuplimes.com/cache/4a/01/4a017910b6c44643d57d459299de9e31.jpg",
                 "description": "Bolani is a delicious Afghan dish that consists of a thin, unleavened dough filled with various ingredients. It is typically made with a mixture of mashed potatoes, leeks, or spinach, and seasoned with spices such as cumin and coriander. The dough is folded over the filling and pan-fried until crispy and golden brown. Bolani is often served as an appetizer or snack, accompanied by yogurt or chutney for dipping. Its combination of flavorful fillings and crispy exterior makes bolani a popular and satisfying dish.",
@@ -132,6 +136,7 @@
                 "rating": 4.5
             },
             {
+                "id": "h5J6u7I2o8P",
                 "name": "Kadu Bouranee: Pan-fried Pumpkin with Garlic, Ginger, and Spices, topped with Tangy Tomato Sauce and Yogurt",
                 "img": "https://www.keyingredient.com/media/b4/45/3f93d794a0a411c8d4779095b49e98556730.jpg/rh/afghan-kadu-bouranee.jpg",
                 "description": "Kadu Bouranee is a traditional Afghan dish featuring tender pumpkin cooked in a flavorful tomato-based sauce. The pumpkin is typically sautéed until it softens and then simmered in a spiced tomato sauce infused with aromatic spices like turmeric, cumin, and cinnamon. The dish is finished with a dollop of tangy yogurt and sprinkled with fresh herbs such as cilantro or mint. Kadu Bouranee offers a delightful balance of sweetness from the pumpkin, tanginess from the yogurt, and a hint of warmth from the spices, making it a delicious and comforting dish.",
@@ -158,6 +163,7 @@
                 "rating": 4.2
             },
             {
+                "id": "g9F4d3S2k1L",
                 "name": "Shola: Hearty Afghan Soup with Slow-cooked Legumes, Meat, Vegetables, and Aromatic Spices, served with Naan Bread or Rice",
                 "img": "https://www.foodfusion.com/wp-content/uploads/2017/07/P2080545.jpg",
                 "description": "Shola is a traditional Afghan soup known for its hearty and comforting qualities. It features a rich broth made from meat, such as lamb or beef, along with a variety of legumes like lentils and chickpeas. The soup is flavored with aromatic spices like cumin, turmeric, and garlic, which lend a warm and earthy flavor profile. Vegetables like onions, carrots, and potatoes are often added for additional texture and flavor. Shola is typically served hot and is a popular choice during colder months, offering a satisfying and nourishing meal option.",
@@ -195,6 +201,7 @@
         "description": "Zahra Noori is an Afghan culinary genius with 12 years of experience under his belt. His expertise lies in crafting traditional Afghan dishes that evoke a sense of nostalgia and cultural pride. With a collection of 60 meticulously crafted recipes, Zahra takes his diners on a flavorful journey through Afghanistan's culinary heritage. His dishes have garnered immense praise, accumulating an impressive 3200 likes. Zahra's culinary prowess combined with his warm personality has made his a beloved figure in the Afghan food scene, earning his a special place in the hearts of food enthusiasts.",
         "recipe": [
             {
+                "id": "a8W7s1X6n5Q",
                 "name": "Bamya Palaw: Aromatic Okra Rice with Tender Meat, Fragrant Spices, and Caramelized Onions",
                 "img": "https://i.pinimg.com/originals/88/8f/c5/888fc5114278700074fb99899f3897d3.png",
                 "description": "Bamya Palaw is a delicious Afghan dish renowned for its rich flavors and textures. It consists of tender chunks of lamb or beef cooked with okra (bamya) in a flavorful tomato-based sauce. The meat and okra are simmered together with aromatic spices such as cumin, coriander, and turmeric, creating a fragrant and savory taste. The dish is served over a bed of fluffy basmati rice, allowing the flavors to meld together. Bamya Palaw is a comforting and hearty meal that showcases the fusion of Afghan and Middle Eastern culinary influences.",
@@ -224,6 +231,7 @@
                 "rating": 4.3
             },
             {
+                "id": "y3T2r1M6c7K",
                 "name": "Chapli Kebab: Flavorful Spiced Beef Patties with Fresh Herbs, Served with Naan Bread and Mint Yogurt Sauce",
                 "img": "https://i0.wp.com/fatimacooks.net/wp-content/uploads/2022/06/B9BA3C87-4293-4C18-A71B-1062A62A36DF-2-scaled-e1673005076244.jpeg?resize=720%2C720&ssl=1",
                 "description": "Chapli kebab is a traditional Pakistani dish known for its delicious flavor and unique texture. It consists of minced meat, typically beef or lamb, mixed with a variety of spices such as cumin, coriander, and chili powder. The mixture is then shaped into round patties with a depression in the center, allowing it to cook evenly. The kebabs are typically grilled or pan-fried until they develop a crispy outer layer and juicy interior. They are often served with naan bread, salad, and yogurt sauce, making them a delightful and satisfying meal.",
@@ -251,6 +259,7 @@
                 "rating": 4.9
             },
             {
+                "id": "z1O2l3K7i8U",
                 "name": "Mazari Chicken White Karahi: Spicy Chicken Curry with Tomatoes, Peppers, and Fragrant Spices, Served with Naan Bread or Rice",
                 "img": "https://i.aaj.tv/english/wp-content/uploads/2016/11/recipe1.png",
                 "description": "Mazari Chicken White Karahi is a popular Pakistani dish known for its creamy and flavorful taste. Tender chicken pieces are cooked in a rich gravy made from a blend of yogurt, cream, and spices. The dish is characterized by its white color and aromatic flavors, which come from ingredients like ginger, garlic, and green chilies. The karahi is typically garnished with fresh coriander leaves and served with naan or rice for a satisfying meal. Its creamy texture and delectable taste make it a favorite among chicken lovers.",
@@ -290,6 +299,7 @@
         "description": "Hassan Faizi, a talented Afghan chef, brings a fresh perspective to the culinary world with his innovative creations. With 6 years of experience, he has honed his skills to deliver a delightful gastronomic experience. Hassan's repertoire consists of 30 carefully curated recipes that showcase his dedication to quality and flavor. His dishes have garnered significant praise, accumulating 1200 likes from food lovers worldwide. Hassan's culinary journey reflects his passion for pushing the boundaries of traditional Afghan cuisine, making him a rising star in the culinary landscape.",
         "recipe": [
             {
+                "id": "d4G2j5H1f6E",
                 "name": "Sabzi Chalaw: Fragrant Herbed Rice with Slow-cooked Spinach, Garlic, and Cumin-flavored Beef",
                 "img": "https://www.afghanyummyfood.com/wp-content/uploads/2017/06/2-1029-x-640-e1520480016186-640x617.jpg",
                 "description": "Sabzi Chalaw, also known as Afghan Vegetable Pilaf, is a delightful and flavorful dish from Afghanistan. It features a fragrant and aromatic rice pilaf cooked with a medley of vegetables. The vegetables, such as carrots, peas, and cauliflower, are sautéed in a blend of spices and then mixed with long-grain rice, creating a colorful and vibrant dish. The pilaf is cooked until the rice is fluffy and each grain is separate. Sabzi Chalaw is often served as a main course or as a side dish alongside grilled meats or kebabs, adding a wholesome and nutritious element to the meal.",
@@ -315,6 +325,7 @@
                 "rating": 3.9
             },
             {
+                "id": "n7B3v6C1m4D",
                 "name": "Sheer Khurma: Creamy Vermicelli Pudding with Milk, Dates, Nuts, and Fragrant Cardamom, a Traditional Afghan Dessert",
                 "img": "https://www.whiskaffair.com/wp-content/uploads/2021/04/Sheer-Khurma-2-3-500x500.jpg",
                 "description": "Sheer Khurma is a traditional Afghnai, Indian and Pakistani dessert known for its rich and creamy taste. The dish translates to 'milk with dates' and is made by simmering vermicelli, milk, and dates in a fragrant mixture of ghee and cardamom. It is further enhanced with the addition of nuts such as almonds, pistachios, and cashews, providing a delightful crunch. Sheer Khurma is often enjoyed during festive occasions like Eid and is served warm or chilled as a sweet and indulgent treat.",
@@ -339,6 +350,7 @@
                 "rating": 4.7
             },
             {
+                "id": "x1Z9c3V2b8N",
                 "name": "Aushak: Scrumptious Afghan Dumplings filled with Scallions, Herbs, and Ground Lamb, Topped with Tomato Sauce and Mint Yogurt",
                 "img": "https://www.thecuriouschickpea.com/wp-content/uploads/2020/08/afghan-aushak-5.jpg",
                 "description": "Aushak is a traditional Afghan dish that consists of delicate dumplings filled with a mixture of herbs, typically scallions, and served with a flavorful tomato-based sauce. The dumplings are made with a thin dough, carefully folded and sealed, then boiled until tender. Once cooked, they are topped with the tangy tomato sauce and often garnished with a dollop of yogurt and a sprinkle of dried mint. Aushak is loved for its vibrant flavors, fresh herbs, and comforting textures, making it a popular choice in Afghan cuisine.",
@@ -379,6 +391,7 @@
         "description": "Nadia Khattak is an exceptional culinary artist, renowned for his innovative approach to cooking and captivating flavors. With a passion for gastronomy, she has honed his skills over the years, creating extraordinary culinary experiences that leave a lasting impression on all who indulge. Nadia's commitment to using fresh, locally sourced ingredients adds a delightful touch of authenticity to his delectable creations. His culinary expertise extends beyond borders, blending diverse flavors from around the world into harmonious symphonies of taste. With his creative flair and unwavering dedication, Nadia Khattak continues to redefine the culinary landscape, delighting food enthusiasts with every dish she presents.",
         "recipe": [
             {
+                "id": "l5I2k7O1q3P",
                 "name": "Chalow Kebab: Succulent Grilled Skewered Meat, Marinated in Spices and Yogurt, Served with Saffron-infused Rice",
                 "img": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chelo-Kebab-750x750.jpg",
                 "description": "Chalow Kebab is a traditional Afghan dish consisting of succulent grilled or roasted kebabs served with fragrant and fluffy long-grain rice known as 'chalow.' The kebabs are typically made with minced lamb or beef, mixed with a variety of spices and herbs, then shaped into long, cylindrical skewers. The kebabs are cooked to perfection, resulting in a tender and flavorful meat. The chalow rice complements the kebabs beautifully, creating a satisfying and aromatic meal that is enjoyed across Afghanistan.",
@@ -406,6 +419,7 @@
                 "rating": 4.9
             },
             {
+                "id": "w8S6x3Q2a1Z",
                 "name": "Shorwa-e-Gosht: Hearty Afghan Lamb Soup with Vegetables, Lentils, and Aromatic Spices, Served with Bread or Naan",
                 "img": "https://foodfusion.com/wp-content/uploads/2020/07/Mutton-shorba-Recipe-by-Food-fusion-5.jpg",
                 "description": "Shorwa-e-Gosht is a hearty and flavorful Afghan meat soup made with tender chunks of lamb or beef simmered with aromatic spices and vegetables. The soup is known for its rich and comforting broth, which is achieved by slow-cooking the meat with onions, garlic, and a blend of spices like cumin, coriander, and turmeric. The addition of vegetables such as carrots and potatoes enhances the flavors and adds texture to the soup. Shorwa-e-Gosht is often served with naan bread or rice, making it a satisfying and nourishing meal option.",
@@ -434,6 +448,7 @@
                 "rating": 4.8
             },
             {
+                "id": "o4P7i2U6y3T",
                 "name": "Borani Banjan: Fried Eggplant with Tomato Sauce, Tangy Yogurt, and Fresh Herbs, a Classic Afghan Appetizer",
                 "img": "https://i.ytimg.com/vi/4x4rgRiNr_E/maxresdefault.jpg",
                 "description": "Borani Banjan is a traditional Afghan dish consisting of fried eggplant slices topped with a flavorful tomato-based sauce and a layer of tangy yogurt. The eggplant is typically cooked until golden brown and crispy, while the sauce is made with tomatoes, onions, garlic, and a blend of spices. The dish is then finished off with a generous dollop of yogurt, creating a creamy and refreshing contrast to the savory flavors. Borani Banjan is often served as a side dish or as part of a larger Afghan meal.",
@@ -472,6 +487,7 @@
         "description": "Karim Azimi is a seasoned Afghan chef with a remarkable culinary journey spanning over 15 years. He is widely regarded as a master of Afghan cuisine, having honed his skills in renowned kitchens across the country. With an impressive repertoire of 80 unique recipes, Karim's culinary creations showcase the diverse flavors and regional specialties of Afghanistan. His dishes have garnered immense praise, accumulating a staggering 4500 likes. Karim's passion for culinary excellence and his meticulous attention to detail make each of his creations a true work of art, elevating Afghan cuisine to new heights.",
         "recipe": [
             {
+                "id": "k1L2f3H6d9G",
                 "name": "Murg Korma: Creamy Chicken Curry with Cashews, Yogurt, and Fragrant Spices, Served with Naan Bread or Rice",
                 "img": "https://static.toiimg.com/thumb/61709928.cms?width=1200&height=900",
                 "description": "Murg Korma is a classic Afgani, Indian dish known for its rich and creamy gravy, made with tender chicken pieces cooked in a flavorful blend of spices and yogurt. The dish features a harmonious combination of aromatic spices such as cumin, coriander, and cardamom, which infuse the chicken with a delightful flavor. The creamy texture is achieved by adding yogurt and sometimes cream or cashew paste. Murg Korma is often garnished with fresh cilantro and served with naan bread or rice, making it a popular and indulgent choice in Indian cuisine.",
@@ -503,6 +519,7 @@
                 "rating": 4.8
             },
             {
+                "id": "r7N6m3D2b1V",
                 "name": "Chapli Pulao: Fragrant Rice Pilaf with Spiced Beef Patties, Caramelized Onions, and Saffron-infused Flavors",
                 "img": "https://foodfusion.com/wp-content/uploads/2022/04/Chapli-kofta-pulao-Recipe-by-Food-fusion-5.jpg",
                 "description": "Chapli Pulao is a popular Afghani, Pakistani rice dish known for its unique blend of flavors and textures. It combines aromatic Basmati rice cooked with a medley of tender meat, such as chicken or beef, and a variety of aromatic spices. The dish is further enriched with the addition of caramelized onions, tomatoes, and a mix of whole and ground spices. The result is a fragrant and flavorful pulao that is often garnished with fried onions and served with raita or yogurt on the side, making it a delicious and satisfying meal option.",
@@ -532,6 +549,7 @@
                 "rating": 4.7
             },
             {
+                "id": "c4K2u9J5h1Y",
                 "name": "Firnee: Creamy Cardamom-flavored Afghan Rice Pudding with Rosewater, Served Chilled and Garnished with Pistachios",
                 "img": "https://images.squarespace-cdn.com/content/v1/543aa467e4b0075aa785cbb8/1418673194119-XGI0YU1VJD9J90LFEULF/6a01157090fab6970b0120a59879c0970c-800wi?format=1000w",
                 "description": "Firnee is a traditional South Asian dessert known for its creamy and velvety texture. It is made by simmering milk with rice flour or ground rice until it thickens and develops a smooth consistency. The pudding is sweetened with sugar and flavored with aromatic ingredients such as cardamom, rose water, or saffron. Firnee is often garnished with chopped nuts, such as pistachios or almonds, to add a delightful crunch. Served chilled, Firnee is a delectable and refreshing dessert that is enjoyed on special occasions and celebrations.",
